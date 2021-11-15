@@ -1,0 +1,4 @@
+/node_modules/
+/gatsby-browser.js
+/gatsby-ssr.js
+/wrapRootElement.js
