@@ -2,7 +2,7 @@
   "name": "gatsby-plugin-bs-css-emotion",
   "description": "Gatsby plugin to use bs-css-emotion with ReScript or Reason to extract critical css.",
   "homepage": "https://github.com/denis-ok/gatsby-plugin-bs-css-emotion",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "scripts": {},
   "keywords": [
     "rescript",
@@ -15,9 +15,9 @@
     "css-in-js"
   ],
   "files": [
-    "./gatsby-browser.js",
-    "./gatsby-ssr.js",
-    "./wrapRootElement.js"
+    "gatsby-browser.js",
+    "gatsby-ssr.js",
+    "wrapRootElement.js"
   ],
   "repository": {
     "type": "git",

@@ -16,6 +16,7 @@ build: clean
 
 publish: build
 	npm publish
+	make clean
 
 format:
 	$(NODE_BINS)/prettier --write ./src ./test
