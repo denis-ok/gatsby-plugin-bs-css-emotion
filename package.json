@@ -38,6 +38,7 @@
   "devDependencies": {
     "@babel/cli": "^7.16.0",
     "@babel/core": "^7.16.0",
-    "babel-preset-gatsby-package": "^2.1.0"
+    "babel-preset-gatsby-package": "^2.1.0",
+    "prettier": "^2.4.1"
   }
 }
