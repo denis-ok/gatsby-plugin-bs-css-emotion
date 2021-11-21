@@ -38,7 +38,7 @@
   "devDependencies": {
     "@babel/cli": "^7.16.0",
     "@babel/core": "^7.16.0",
-    "@emotion/cache": "^11.6.0",
+    "@emotion/css": "^11.5.0",
     "@emotion/react": "^11.6.0",
     "@emotion/server": "^11.4.0",
     "babel-preset-gatsby-package": "^2.1.0",

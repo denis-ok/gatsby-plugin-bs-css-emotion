@@ -2,8 +2,8 @@
 
 ### Gatsby plugin to use bs-css-emotion with ReScript or Reason/Bucklescript.
 
-This plugin enables extracting critical styles when you use Gatsby with Emotion 11 and components with `className` prop.
-The usage of `className` prop is the only option when you use Rescript/Reason/Bucklescript with `bs-css-emotion` bindings.
+This plugin enables extracting critical styles when you use Gatsby with Emotion 11 (`@emotion/css`) and components with `className` prop.
+The usage of `className` prop is the only option when you use Rescript/Reason/Bucklescript with `bs-css-emotion` bindings that use `@emotion/css` under the hood.
 
 ## Install
 
