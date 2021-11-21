@@ -26,7 +26,10 @@
   "author": "Denis Strelkov",
   "license": "MIT",
   "dependencies": {
-    "@babel/runtime": "^7.16.3"
+    "@babel/runtime": "^7.16.3",
+    "@emotion/cache": "^11.6.0",
+    "@emotion/react": "^11.6.0",
+    "@emotion/server": "^11.4.0"
   },
   "peerDependencies": {
     "@emotion/css": ">=11",
@@ -39,6 +42,10 @@
     "@babel/cli": "^7.16.0",
     "@babel/core": "^7.16.0",
     "babel-preset-gatsby-package": "^2.1.0",
-    "prettier": "^2.4.1"
+    "bs-css-emotion": "^4.0.1",
+    "gatsby": "^4.2.0",
+    "prettier": "^2.4.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   }
 }

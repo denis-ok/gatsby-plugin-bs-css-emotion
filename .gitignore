@@ -2,3 +2,6 @@
 /gatsby-browser.js
 /gatsby-ssr.js
 /wrapRootElement.js
+/public/
+/.cache/
+/plugins/gatsby-plugin-bs-css-emotion-test/
